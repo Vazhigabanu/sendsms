@@ -30,13 +30,22 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by:
-Registeration Number :
+Developed by:VAZHIGA BANU S
+Registeration Number : 212225040484
 */
 ```
 
 ## OUTPUT
 
+<img width="1917" height="1198" alt="Screenshot 2026-11-03 084504" src="https://github.com/user-attachments/assets/37971d1f-2231-461f-8b9a-a04386d7fde2" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-11-03 084915" src="https://github.com/user-attachments/assets/39ae0f28-c9b6-4b89-b111-89aa406ccb0f" />
+
+<img width="1910" height="1197" alt="Screenshot 2026-11-03 085004" src="https://github.com/user-attachments/assets/9930fbdf-fc89-4a79-a5f7-af19372e027f" />
+
+<img width="1916" height="1198" alt="Screenshot 2026-11-03 085027" src="https://github.com/user-attachments/assets/4bf22b6f-1fcb-4d8f-8ecd-5107c4ff27ce" />
+
+<img width="1916" height="1198" alt="Screenshot 2026-11-03 085150" src="https://github.com/user-attachments/assets/005b70de-eefd-4439-9f1a-c41a765ee016" />
 
 
 ## RESULT
